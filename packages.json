@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
     {
+      "name": "JLBuildSuccessMeme",
+      "url": "https://github.com/jonathan-vinova/JLBuildSuccessMeme.git",
+      "description": "Coding like a boss"
+    },
+    {
       "name": "StringsValidator",
       "url": "https://github.com/wallora/StringsValidator.git",
       "description": "StringsValidator is a Xcode plugin for easily finding errors in strings files.",
